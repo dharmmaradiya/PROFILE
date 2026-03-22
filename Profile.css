@@ -1,0 +1,94 @@
+#Home{
+    border:none;
+.card{
+    border:none;
+
+}
+  .card{
+    border:none;
+    height:400px;
+  }
+  img:hover{
+    box-shadow:20px 20px 20px 20px gray;
+  }
+  .img{
+    height: 250px;
+    width:50%;
+    border:none;
+    
+  }
+ 
+  .btn:hover{
+    background-color:black;
+    color:white;
+  }
+}
+#About{
+   img:hover{
+    box-shadow:10px 10px 10px  gray;
+  }
+  .card{
+    border:none;
+  }
+}
+#Skill{
+  .card{
+border:none
+  }
+ 
+}
+#Profile{
+  
+img:hover{
+    
+     opacity: 50%;
+     p{
+      display:block;
+      position:relative;
+     }
+  
+  } 
+  .card{
+    border:none;
+  }
+  
+
+}
+
+ 
+#Resume{
+  
+ h6{
+  text-transform:uppercase;
+
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ }
+ .card{
+  border:none;
+ }
+ 
+}
+  #contact{
+   
+
+        p{
+  font-weight:100;
+      }
+     } 
+     .custom-input {
+  border: none;
+  border-bottom: 1px solid #333;
+  border-radius: 0;
+  background: transparent;
+  padding-left: 0;
+} 
+ .custom-input:focus {
+  box-shadow: none;
+  border-bottom: 2px solid #000;
+} 
+
+textarea.custom-input {
+  resize: none;
+} 
+
+
